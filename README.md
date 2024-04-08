@@ -4,6 +4,6 @@
 
 `Grupo: Los Terreneitor`
 
-**INtegrantes**
+**Integrantes**
 - Silvia Daniela Delgado
 - Mario Gabriel Calcagni
