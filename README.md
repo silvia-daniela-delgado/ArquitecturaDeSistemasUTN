@@ -11,5 +11,6 @@
 
 - Silvia Daniela Delgado
 - Mario Gabriel Calcagni
+- Marina Soledad Rebolloso
 - <- AGREGAR NOMBRES ->
 
