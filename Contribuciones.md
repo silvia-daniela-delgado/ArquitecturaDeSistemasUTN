@@ -25,34 +25,36 @@ $ ls
 cd arquitecturadesitemasutn
 ```
 
-2. Ya ubicados en la carpeta inicializamos `git`
+3. Ya ubicados en la carpeta inicializamos `git`
 
 ```bash
 git init
 ```
 
-3. Configuramos nuestro usuario:
+4. Configuramos nuestro usuario:
 
 ```bash
 git config user.email "micorreo-electronico86@mail.com"
 git config user.name "Mi Nombre"
 ```
 
-4. Modificamos el `README.md` agregando el nombre del integrante.
+5. Modificamos el `README.md` agregando el nombre del integrante.
 
-5. Preparamos el archivo para subirlo a la rama
+<img src="git-contrib.png" alt="Imagen  descriptiva archivo markdown." widt="100%" height="auto" />
+
+6. Preparamos el archivo para subirlo a la rama
 
 ```bash
 git add .
 ```
 
-6. Creamos un commit con la descripción de la modificación:
+7. Creamos un commit con la descripción de la modificación:
 
 ```bash
 git commit -m "mi primer commit (modificación readme.md)"
 ```
 
-7. Empujamos los cambios al repositorio de la rama master:
+8. Empujamos los cambios al repositorio de la rama master:
 
 ```bash
 git push -u origin master
