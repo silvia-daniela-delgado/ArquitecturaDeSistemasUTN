@@ -1,6 +1,6 @@
 # Contribuciones
 
-Este artículo explica cómo contribuir al repositrio del Trabajo Grupal de Arquitectura y Sistemas Operativos de la UTN.
+Este artículo explica un breve ejemplo de cómo contribuir al repositrio del Trabajo Grupal de Arquitectura y Sistemas Operativos de la UTN.
 
 **Grupo: LOS TERRENEITORS**
 
