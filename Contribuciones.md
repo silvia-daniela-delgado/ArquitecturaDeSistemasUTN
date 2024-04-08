@@ -16,13 +16,13 @@ git clone https://github.com/silvia-daniela-delgado/ArquitecturaDeSistemasUTN.gi
 Neo@DESKTOP-5ULIFRA MINGW64 ~/desktop (master)
 $ ls
  CPE-Config/      'UTN - TUP'/                  nextjs-dashboard/
- Cosas/           *ArquitecturaDeSistemasUTN/*   portfolioWeb/
+ Cosas/           [ArquitecturaDeSistemasUTN/]  portfolioWeb/
 ```
 
 2. Entramos en la carpeta:
 
 ```bash
-cd arquitecturadesitemasutn
+cd arquitecturadesistemasutn
 ```
 
 3. Ya ubicados en la carpeta inicializamos `git`:
@@ -40,7 +40,7 @@ git config user.name "Mi Nombre"
 
 5. Modificamos el `README.md` agregando el nombre del integrante.
 
-<img src="git-contrib.png" alt="Imagen  descriptiva archivo markdown." widt="100%" height="auto" />
+<img src="git-contrib.png" alt="Imagen descriptiva archivo markdown." width="100%" height="auto" />
 
 6. Preparamos los cambios para subirlo al repositorio:
 
