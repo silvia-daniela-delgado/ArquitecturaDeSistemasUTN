@@ -11,5 +11,5 @@
 
 - Silvia Daniela Delgado
 - Mario Gabriel Calcagni
-- <- AGREGAR NOMBRES >
+- <- AGREGAR NOMBRES ->
 

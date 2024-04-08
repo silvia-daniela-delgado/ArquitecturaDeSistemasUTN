@@ -60,7 +60,9 @@ git commit -m "mi primer commit (modificación readme.md)"
 git push -u origin master
 ```
 
-Con estos pasos ya se debería actualizar el repositorio.
+Con estos pasos ya se debería poder contribuir al repositorio.
+
+*Espero les pueda ayudar*
 
 
 
