@@ -42,7 +42,7 @@ git config user.name "Mi Nombre"
 
 <img src="git-contrib.png" alt="Imagen  descriptiva archivo markdown." widt="100%" height="auto" />
 
-6. Preparamos el archivo para subirlo a la rama
+6. Preparamos los cambios para subirlo al repositorio:
 
 ```bash
 git add .
@@ -54,7 +54,7 @@ git add .
 git commit -m "mi primer commit (modificación readme.md)"
 ```
 
-8. Empujamos los cambios al repositorio de la rama master:
+8. Empujamos los cambios al repositorio remoto en la rama master:
 
 ```bash
 git push -u origin master
