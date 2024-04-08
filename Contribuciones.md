@@ -25,7 +25,7 @@ $ ls
 cd arquitecturadesitemasutn
 ```
 
-3. Ya ubicados en la carpeta inicializamos `git`
+3. Ya ubicados en la carpeta inicializamos `git`:
 
 ```bash
 git init
