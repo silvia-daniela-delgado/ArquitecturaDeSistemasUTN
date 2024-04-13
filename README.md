@@ -14,5 +14,6 @@
 - Marina Soledad Rebolloso
 - Elias David Jacob
 - Franco Javier Morales
+- Juan Pablo Batallón Costa
 - <- AGREGAR NOMBRES ->
 
