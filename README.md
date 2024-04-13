@@ -11,5 +11,4 @@
 
 - Silvia Daniela Delgado
 - Mario Gabriel Calcagni
-- Juan Pablo Batallón Costa
 - <- AGREGAR NOMBRES ->
