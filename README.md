@@ -1,15 +1,15 @@
 # Trabajo Grupal UTN (Arquitectura y Sistemas Operativos)
 
-## Proyecto Integral 
+## Proyecto Integral
 
 `Grupo: Los Terreneitor`
 
->[!NOTE]
+> [!NOTE]
 > Chicos pueden ir agregando aquí sus nombres para cuando hayan clonado este repo!
 
 **Integrantes:**
 
 - Silvia Daniela Delgado
 - Mario Gabriel Calcagni
+- Juan Pablo Batallón Costa
 - <- AGREGAR NOMBRES ->
-
